@@ -1,12 +1,10 @@
 ## 📱 My Day Flow
 
-# 📱 My Day Flow
-
 My Day Flow is a mobile application built with **Flutter** that helps users build healthy routines, track their mood, and stay motivated throughout the day.  
 
 This project was developed as part of the **IBM Android and iOS Mobile Development Capstone**, but goes beyond the requirements by incorporating professional Flutter practices and additional features. The app is also published on the Google Play Store, making it a real-world, production-ready project.
 
-![App Preview](screenshots/my day flow.jpg)
+<img src="screenshots/mydayflow.jpg" alt="Alt text" width="550" >
 
 ---
 
@@ -39,12 +37,14 @@ I approached this project using **Agile methodology** with clearly defined user 
 ### 1. Design Mockups
 I then moved to high-fidelity mockups in **Figma**, refining the visual style, colors, and typography.  
 
-(screenshots/figma-design.JPG)
+<img src="screenshots/figma-design.JPG" alt="Alt text"  >
+
 
 ### 3. Project Architecture Pattern
 For scalability and maintainability, I applied a clean project architecture pattern with separation of concerns between UI, state management, and data layers.  
 
-👉 *(Insert your project pattern/architecture screenshot here)*
+<img src="screenshots/pattern_My_day_flow.JPG" alt="Alt text" height= "550" >
+
 
 ---
 
@@ -64,24 +64,15 @@ While the capstone only required basic functionality, I intentionally went furth
 
 The application is published on the **Google Play Store**.  
 
-👉 [Download My Day Flow on Google Play](#) *(Insert actual link when available)*
+👉 [Download My Day Flow on Google Play](https://play.google.com/store/apps/details?id=com.catuleius.mydayflow) 
 
 ---
 
 ## 📸 Screenshots
 
-| Home Screen | Habit Tracker | Mood Tracker | Quotes |Notifications|
+| Home Screen | Habit Tracker | Mood Tracker | Quotes |Analytics|
 |-------------|---------------|--------------|--------|--------|
-| ![Home](screenshots/home.jpg) | ![Habits](screenshots/habits.jpg) | ![Mood](screenshots/mood.jpg) | ![Quotes](screenshots/quotes.jpg) | ![Notifications](screenshots/notification.jpg) |
-
-
----
-
-## 📖 User Stories
-
-The app was developed based on 9 user stories.  
-👉 
-
+| <img src="screenshots/home.jpg" alt="Alt text" width= "600" > | <img src="screenshots/habits.jpg" alt="Alt text" width= "600" > | <img src="screenshots/mood.jpg" alt="Alt text" width= "600" > | <img src="screenshots/quotes.jpg" alt="Alt text" width= "600" > | <img src="screenshots/analytics.jpg" alt="Alt text" width= "600" > 
 
 ---
 
@@ -101,6 +92,7 @@ I went beyond the expectations of the course to make this app **portfolio-ready*
 ## 📬 Contact
 
 Created with ❤️ by SALIM SOLTANI **[Catuleius ]**  
-- GitHub: [SALIM SOLTANI](https://github.com/salimsoltani41)  
-- LinkedIn: [YourLinkedInProfile](#)  
+- Portfolio: [Catuleius](https://catuleius.com/)  
+- GitHub: [salimsoltani41](https://github.com/salimsoltani41)  
+- LinkedIn: [salimstolani](linkedin.com/in/soltanisalim)  
 - Email: contact@catuleius.com  
