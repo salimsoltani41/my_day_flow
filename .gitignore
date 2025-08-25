@@ -3,3 +3,12 @@
 key.properties
 .dart_tool/
 build/
+
+# Create .gitignore file
+echo "# Business Logic - Not for Portfolio
+lib/app/data/
+lib/app/modules/*/controllers/
+lib/app/modules/*/*_controller.dart
+lib/core/service/
+lib/app/utils/
+.idea/" > .gitignore
